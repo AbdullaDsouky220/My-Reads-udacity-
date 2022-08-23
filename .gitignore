@@ -1,0 +1,2 @@
+# ignore ALL node module
+*node_modules 
